@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RockPaperScissor
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=input\ response
+comment2.target=void\ dialogue(int,\ int)
+comment3.params=input\ response
+comment3.target=void\ win(int,\ int)
+numComments=4
